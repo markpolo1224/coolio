@@ -1,6 +1,6 @@
 {
   "name": "coolior",
-  "version": "0.1.0",
+  "version": "0.1.7",
   "description": "",
   "author": "markpolo1224",
   "license": "ISC",
@@ -19,7 +19,6 @@
     "test": "NODE_ENV=test jest'"
   },
   "devDependencies": {
-    "half-red-qr": "^0.1.12",
     "eslint": "5.16.0",
     "eslint-config-prettier": "4.3.0",
     "eslint-config-standard": "12.0.0",
@@ -34,6 +33,7 @@
     "prettier": "1.17.1"
   },
   "dependencies": {
+    "half-red-qr": "^0.1.12",
     "@koa/cors": "2.2.3",
     "dotenv": "8.0.0",
     "joi": "14.3.1",
